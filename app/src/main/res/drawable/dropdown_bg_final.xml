@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:width="500dp"
+        android:height="50dp"
+        android:drawable="@drawable/ic_squre">
+
+    </item>
+    <item
+        android:width="10dp"
+        android:height="10dp"
+        android:drawable="@drawable/ic_triangle"
+        android:gravity="center_vertical|end"
+        android:right="10dp" />
+
+</layer-list>

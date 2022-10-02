@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="myfullscreendialog" parent="Theme.MaterialComponents.Light.Dialog">
+        <!--        <item name="colorPrimary">@color/colorPrimary</item>-->
+        <item name="android:windowMinWidthMajor">100%</item>
+        <item name="android:windowMinWidthMinor">100%</item>
+<!--        <item name="android:windowMinWidthMinor">100%</item>-->
+
+    </style>
+</resources>
