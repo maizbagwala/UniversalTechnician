@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "467754280758",
+    "project_id": "universal-technician-app-f282d",
+    "storage_bucket": "universal-technician-app-f282d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467754280758:android:7c23de8bf33f32f4b8f597",
+        "android_client_info": {
+          "package_name": "in.universaltechnician.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467754280758-c6r6rn1iss15qvmh2st47uo9t9hepc3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.universaltechnician.app",
+            "certificate_hash": "ac026828d424bf66c715c8786b6f03b276dcfc71"
+          }
+        },
+        {
+          "client_id": "467754280758-prcqpb99158jgc0mlh2l9oe1trdf5so9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCizPxKpNvh6LshsHMHu4YD_BSOYuY42DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467754280758-prcqpb99158jgc0mlh2l9oe1trdf5so9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
