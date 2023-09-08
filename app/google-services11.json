@@ -22,30 +22,6 @@
           }
         },
         {
-          "client_id": "467754280758-ch7hm90nnd9nop47d2fairpntidtdl64.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "in.universaltechnician.app",
-            "certificate_hash": "23699c786005ff17a345141754f0dfb23860885c"
-          }
-        },
-        {
-          "client_id": "467754280758-d7mds7k6ufq9tlh1ijtu7727mfjb4t9t.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "in.universaltechnician.app",
-            "certificate_hash": "f3f720c981a16acbdce6b1a2e2dc91f4143618f3"
-          }
-        },
-        {
-          "client_id": "467754280758-u9fq15mnvitmqv3jbv32t24d6pij2s6k.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "in.universaltechnician.app",
-            "certificate_hash": "11e5da7d594d6710545e720f17d6bb013018e424"
-          }
-        },
-        {
           "client_id": "467754280758-prcqpb99158jgc0mlh2l9oe1trdf5so9.apps.googleusercontent.com",
           "client_type": 3
         }
